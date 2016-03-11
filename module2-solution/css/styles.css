@@ -20,6 +20,7 @@ h1 {
   height: 150px;
   margin: 20px;
   border: 1px solid black;
+  overflow: hidden;
 }
 .sectiontitle {
   width: 150px;
