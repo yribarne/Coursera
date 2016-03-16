@@ -3,7 +3,7 @@ body{
 	font-size: 16px;
 	font-family: 'Titillium Web', sans-serif;
 	background-color: #AB5802;
-	color: black;
+	color: white;
 }
 
 .navbar-header, .navbar, .navbar-default, #MenuButton{
@@ -15,7 +15,7 @@ body{
 	font-size: 1.3em;
 	color: black;
 	border: none;
-    color: black;
+    color: green;
 }
 .navbar-nav{
 	font-size: 1.2em;
